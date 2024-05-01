@@ -1,0 +1,11 @@
+.{
+    .name = "zig-chip8",
+    .version = "0.0.1",
+
+    .dependencies = .{
+		.mach_glfw = .{
+			.url = "https://pkg.machengine.org/mach-glfw/63da35e57c3695a787b927e69e4140eb74ffc234.tar.gz",
+			.hash = "122089efe880448a38419eeaff375bf22b420d56665e06cc249e9239737b4f2fc06d",
+		},
+    }
+}
